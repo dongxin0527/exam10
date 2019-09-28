@@ -1,4 +1,5 @@
 <?php
+echo 222;
 /**
  * Laravel - A PHP Framework For Web Artisans
  *
